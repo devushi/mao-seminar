@@ -19,6 +19,7 @@ seminar/
 - AAAAA
 - BBBBB
 - CCCCC
+- DDDDD
 
 # 備考
 本リポジトリは「わかばちゃんと学ぶGit使い方入門」の練習用として使用するリポジトリです。
